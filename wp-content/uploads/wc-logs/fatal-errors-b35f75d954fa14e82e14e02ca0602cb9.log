@@ -1,0 +1,225 @@
+2017-10-24T09:47:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:49:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:49:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:49:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:50:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:50:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:52:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:52:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:54:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T09:54:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-24T12:35:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-25T05:59:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-25T05:59:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-25T06:28:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-25T06:41:27+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, false)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', 
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-25T06:41:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php:855
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(622): Content_Cards::get_remote_favicon('<!DOCTYPE html>...', ' http://localho...')
+#1 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(496): Content_Cards::get_remote_data(' http://localho...', 256)
+#2 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(454): Content_Cards::get_data(' http://localho...')
+#3 D:\xampp\htdocs\mywordpress\wp-content\plugins\content-cards\content-cards.php(432): Content_Cards::build(' http://localho...', Array, true)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(345): Content_Cards::shortcode(Array, '', 'contentcards')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(conten...', '
+
+2017-10-26T10:55:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-26T10:55:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-10-26T12:14:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php on line 5 and exactly 2 expected in D:\xampp\htdocs\mywordpress\wp-includes\wp-db.php:1291
+Stack trace:
+#0 D:\xampp\htdocs\mywordpress\wp-content\plugins\hide-title\uninstall.php(5): wpdb->prepare('DELETE FROM wp_...')
+#1 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(1014): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\mywordpress\wp-admin\includes\plugin.php(836): uninstall_plugin('hide-title/dojo...')
+#3 D:\xampp\htdocs\mywordpress\wp-admin\includes\ajax-actions.php(3875): delete_plugins(Array)
+#4 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(298): wp_ajax_delete_plugin('')
+#5 D:\xampp\htdocs\mywordpress\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\mywordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\mywordpress\wp-admin\admin-ajax.php(91): do_act
+
+2017-11-03T11:14:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-11-03T11:14:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-11-03T11:14:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-11-04T13:32:58+05:30 CRITICAL Maximum execution time of 30 seconds exceeded
+

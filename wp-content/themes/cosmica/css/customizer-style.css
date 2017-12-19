@@ -1,0 +1,128 @@
+.control-section-cosmica-upsell {
+    display: block !important;
+}
+
+.theme-upsale-button {
+    background: #4CAF50 !important;
+    color: #FFF !important;
+    border-color: #009688 !important;
+}
+
+.cdns-upgrade {
+    /* height: 20px; */
+    width: 130px;
+    background-color: #ee591f;
+    display: block;
+    color: #FFF;
+    padding: 10px 30px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 3px;
+    text-decoration: none;
+}
+
+.cdns-upgrade:hover, .cdns-upgrade:visited, .cdns-upgrade:active, .cdns-upgrade:focus {
+    color: #FFF !important;
+}
+
+#cdns-reviwe {
+    background-color: #14A050;
+}
+
+#cdns-docs {
+    background-color: #34495e;
+}
+#cdns-upgrade-sevice {
+    background-color: #298CBA;
+    width: 80%;
+    padding: 10px;
+}
+.pro-vesrion {
+    margin-top: 20px;
+}
+
+.cosmica-accordion-section-title {
+    background-color: #999;
+    padding: 16px;
+    border-top: 1px solid #555;
+    text-transform: uppercase;
+}
+
+/*FontAwesome Icon Styles*/
+.cosmica-type-icon{
+  overflow: hidden;
+}
+
+.cosmica-selected-icon{
+  background: #F6F6F6;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  border: 1px solid #EEE;
+  position: relative;
+  margin-right: 45px;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.cosmica-selected-icon .fa{
+  display: block;
+  line-height: 45px;
+}
+
+.cosmica-selected-icon span{
+  position: absolute;
+  background: #F6F6F6;
+  right: -45px;
+  top: -1px;
+  height: 45px;
+  width: 45px;
+  border: 1px solid #EEE;
+  font-size: 20px;
+}
+
+.cosmica-icon-list{
+  height: 215px;
+  overflow-y: scroll;
+  font-size: 18px;
+  border: 1px solid #EEE;
+  border-right: 0;
+  border-top: 0;
+  padding-bottom: 4%;
+  display: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.cosmica-icon-list li{
+  float: left;
+  margin: 4% 3% 0;
+  height: 40px;
+  width: 16%;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #EEE;
+}
+
+.cosmica-icon-list li:hover{
+  background: #333;
+  border: 1px solid #333;
+  color: #FFF;
+}
+
+.cosmica-icon-list li.icon-active{
+  background: #0073aa;
+  border: 1px solid #0073aa;
+  color: #FFF;
+}
+
+.button.button-default {
+    margin: 0 auto;
+    display: block;
+    width: 102px;
+}
